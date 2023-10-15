@@ -1,9 +1,9 @@
 <h1>Hi, my name is Kamira </h1>
 
 <h2>Certifcations</h2>
-</p>Microsoft Certified: Power BI Data Analyst Associate<
-Google Data Analytics
-Google Project Management 
+<p>Microsoft Certified: Power BI Data Analyst Associate<p></p>
+<p></p>Google Data Analytics<p></p>
+<p></p>Google Project Management<p></p>
 Six Sigma Greenbelt
 <br />
 
