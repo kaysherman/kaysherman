@@ -5,6 +5,7 @@
 <p>I'm a life long learner. I'm always looking forward to acquiring  new skills in relation to data analysis</p>
 
 <h2>Certifcations</h2>
+<p>PMP(Project Management Professional)<p></p>
 <p>Microsoft Certified: Power BI Data Analyst Associate<p></p>
 <p></p>Google Data Analytics<p></p>
 <p></p>Google Project Management<p></p>
