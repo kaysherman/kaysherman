@@ -1,6 +1,7 @@
-CompTIA Security+  
-Status: Earned  
-Issued: 2025  
+## CompTIA Security+
+
+**Status:** Earned  
+**Issued:** 2025  
 [Verify Credential](https://cp.certmetrics.com/comptia/en/public/verify/credential/acee271b10fa45598d3a657eacbca0a9)
 
 Overview  
