@@ -88,8 +88,6 @@ LinkedIn:
 
 
 ## 📁 Portfolio Sections
-- 📜 [Certifications](certifications/)
-- 🎓 [School Projects](school-projects/)
 - 📊 [Case Studies](case-studies/)
 
 <br />
