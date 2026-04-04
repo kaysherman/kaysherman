@@ -84,11 +84,10 @@ Entry Certificate in Business Analysis (ECBA)
 
 
 ## 📫 Connect With Me
-LinkedIn:    
+LinkedIn:www.linkedin.com/in/cyberkay  
 
 
-## 📁 Portfolio Sections
-- 📊 [Case Studies](case-studies/)
+
 
 <br />
 
