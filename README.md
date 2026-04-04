@@ -28,22 +28,22 @@ These roles are an important part of my long‑term path toward IAM and cybersec
 ## 🔐 Active Directory Basics Lab 
 Hands‑on AD administration, user lifecycle management, GPO configuration, and domain authentication analysis.
 Skills: ADUC, PowerShell, GPOs, IAM fundamentals
-➡️ 
+➡️ case-studies/TryHackMe_Active Directory Basics.docx
 
 ## 🛡️ Firewall & Vulnerability Assessment Lab 
 Analyzed firewall rules, performed Nessus/OpenVAS scans, identified insecure services, and developed a penetration testing plan.
 Skills: Nessus, OpenVAS, Nmap, firewall analysis, tunneling detection
-➡️ 
+➡️ case-studies/Firewall & Vulnerability Assessment.docx
 
 ## 🌐 Future-Proofing SecureTEch: Security Proposal Lab
 A full security enhancement proposal featuring identity governance improvements, IoT security controls, incident response planning, and a phased implementation roadmap for strengthening SecureTech’s cybersecurity posture.
 Skills:
-➡️ 
+➡️ case-studies/SecureTech_IAM_Strategy_Presentation.pptx
 
 ## 🔎 Security IAM Modernization Lab 
 Zero Trust IAM solution in Microsoft Entra ID for a fintech environment. Reduced excessive privileges using RBAC, enforced MFA and blocked legacy authentication with Conditional Access, and centralized identity governance across enterprise applications. Demonstrates hands-on experience securing identities in cloud environments.
 Skills: 
-➡️ 
+➡️ case-studies/SecurePay_IAM_Modernization.pptx
 
 ## 🛠️ Skills & Tools
 Identity & Access Management
