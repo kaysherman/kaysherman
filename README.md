@@ -28,22 +28,30 @@ These roles are an important part of my long‑term path toward IAM and cybersec
 ## 🔐 Active Directory Basics Lab 
 Hands‑on AD administration, user lifecycle management, GPO configuration, and domain authentication analysis.
 
-➡️ (https://github.com/kaysherman/kaysherman/blob/main/Labs/Active%20Directory%20Lab.docx)
+**Skills: ADUC, PowerShell, GPOs, IAM fundamentals**
+
+➡️ https://github.com/kaysherman/kaysherman/blob/main/Labs/Active%20Directory%20Lab.docx
 
 ## 🛡️ Firewall & Vulnerability Assessment Lab 
 Analyzed firewall rules, performed Nessus/OpenVAS scans, identified insecure services, and developed a penetration testing plan.
 
-➡️ (https://github.com/kaysherman/kaysherman/blob/main/Labs/Firewall%20%26%20Vulnerability%20Assessment%20Lab.docx)
+**Skills: Nessus, OpenVAS, Nmap, firewall analysis, tunneling detection**
+
+➡️ https://github.com/kaysherman/kaysherman/blob/main/Labs/Firewall%20%26%20Vulnerability%20Assessment%20Lab.docx
 
 ## 🌐 Future-Proofing SecureTech: Security Proposal Lab
 A full security enhancement proposal featuring identity governance improvements, IoT security controls, incident response planning, and a phased implementation roadmap for strengthening SecureTech’s cybersecurity posture.
 
-➡️ (https://github.com/kaysherman/kaysherman/blob/main/Labs/SecureTech%20Security%20Proposal%20Lab.pptx)
+**Skills: security architecture analysis, identity governance, IoT security controls, threat modeling, incident response planning, policy development, compliance alignment, implementation roadmap design**
+
+➡️ https://github.com/kaysherman/kaysherman/blob/main/Labs/SecureTech%20Security%20Proposal%20Lab.pptx
 
 ## 🔎 Security IAM Modernization Lab 
 Zero Trust IAM solution in Microsoft Entra ID for a fintech environment. Reduced excessive privileges using RBAC, enforced MFA and blocked legacy authentication with Conditional Access, and centralized identity governance across enterprise applications. Demonstrates hands-on experience securing identities in cloud environments.
 
-➡️ (https://github.com/kaysherman/kaysherman/blob/main/Labs/SecurePay%20IAM%20Modernization%20Lab.pptx)
+**Skills: Microsoft Entra ID, Conditional Access, MFA enforcement, RBAC privilege reduction, identity lifecycle governance, cloud authentication hardening, SSO integration, Zero Trust IAM design**
+
+➡️ https://github.com/kaysherman/kaysherman/blob/main/Labs/SecurePay%20IAM%20Modernization%20Lab.pptx
 
 ## 🛠️ Skills & Tools
 Identity & Access Management
