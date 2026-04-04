@@ -1,39 +1,77 @@
-## About Me
+## 👋 Hi, I’m Kamira
 
-I am a data and operations professional with a strong foundation in cybersecurity, governance, risk, and compliance (GRC), and a growing focus on identity and access management (IAM). My background spans analytics, service operations, and project leadership, allowing me to bridge technical controls with business and regulatory requirements.
+## 🚀 About Me
+I’m an IAM and cybersecurity professional with a background in data, operations, and enterprise support. I focus on how identity, access, and security controls work together to protect systems, reduce risk, and enable secure, scalable operations. My work blends hands‑on technical execution with governance, risk awareness, and cross‑team collaboration.
 
-I have hands-on experience supporting enterprise environments through data-driven monitoring, operational readiness, and process improvement initiatives. I am particularly interested in how IAM, security controls, and risk management intersect to protect sensitive data, support compliance, and enable secure, scalable operations.
+I use this GitHub to document labs, build security projects, and showcase my growth across identity, Active Directory, vulnerability scanning, and network security.
 
-My work and studies emphasize:
-- Translating technical risk into business impact
-- Supporting secure access and identity governance
-- Strengthening operational resilience through proactive monitoring
-- Collaborating across technical, operational, and leadership teams
+## 🎯 Career Focus
+I’m pursuing roles at the intersection of identity, security, and governance—where I can strengthen access controls, reduce risk, and support secure, scalable operations. I’m especially drawn to positions that blend hands‑on technical work with policy, process, and collaboration across engineering and leadership teams.
 
-This GitHub portfolio highlights my certifications, academic projects, and practical case studies that demonstrate my approach to security, IAM, and GRC within real-world environments.
+## 🛠️ Skills & Tools
+Identity & Access Management
 
-## Areas of Interest
-- Identity and Access Management (IAM)
-- Governance, Risk, and Compliance (GRC)
-- Cybersecurity and security operations
-- Risk assessment and control evaluation
-- Operational readiness and continuous improvement
-- Data analysis and performance monitoring
+Entra ID, Conditional Access, MFA
 
-## Certifications
-- Project Management Professional (PMP)®
-- CompTIA Security+
-- CompTIA Network+
-- Azure Fundamentals -AZ900
-- IIBA Entry Certificate in Business Analysis
-- Six Sigma Greenbelt
+Identity governance & lifecycle management
 
-## Career Focus
-I am pursuing roles that sit at the intersection of security, IAM, and governance—where I can contribute to risk reduction, control effectiveness, and secure service delivery while continuing to grow my technical and leadership capabilities.
+Active Directory administration
+
+Cybersecurity & Network Security
+
+Nessus, OpenVAS, Nmap
+
+Firewall rule auditing & analysis
+
+Vulnerability scanning & reporting
+
+Security hardening & remediation
+
+Technical & Operational
+
+PowerShell
+
+ServiceNow
+
+Data analysis & reporting
+
+Process improvement & documentation
+
+## 📂 Featured Projects
+## 🔐 Active Directory Basics Lab 
+Hands‑on AD administration, user lifecycle management, GPO configuration, and domain authentication analysis.
+Skills: ADUC, PowerShell, GPOs, IAM fundamentals
+➡️ 
+
+## 🛡️ Firewall & Vulnerability Assessment Lab 
+Analyzed firewall rules, performed Nessus/OpenVAS scans, identified insecure services, and developed a penetration testing plan.
+Skills: Nessus, OpenVAS, Nmap, firewall analysis, tunneling detection
+➡️ 
+
+## 🌐 Future-Proofing SecureTEch: Security Proposal Lab
+A full security enhancement proposal featuring identity governance improvements, IoT security controls, incident response planning, and a phased implementation roadmap for strengthening SecureTech’s cybersecurity posture.
+Skills:
+➡️ 
+
+## 🔎 Security IAM Modernization Lab 
+Zero Trust IAM solution in Microsoft Entra ID for a fintech environment. Reduced excessive privileges using RBAC, enforced MFA and blocked legacy authentication with Conditional Access, and centralized identity governance across enterprise applications. Demonstrates hands-on experience securing identities in cloud environments.
+Skills: 
+➡️ 
+
+## 📘 Certifications
+CompTIA Security+ Ce
+CompTIA Network+ Ce
+Microsoft Azure Fundamentals AZ-900
+Microsoft IT Support Specialist
+Project Management Professional (PMP)
+Entry Certificate in Business Analysis (ECBA)
+
+
+## 📫 Connect With Me
+LinkedIn:    
 
 
 ## 📁 Portfolio Sections
-
 - 📜 [Certifications](certifications/)
 - 🎓 [School Projects](school-projects/)
 - 📊 [Case Studies](case-studies/)
