@@ -12,6 +12,16 @@ I'm targeting roles in **Cybersecurity Analysis, Identity & Access Management, a
 
 ## 📂 Featured Projects
 
+### 🖥️ Windows Performance Troubleshooting Lab
+Diagnosed a slow Windows 11 endpoint end-to-end: baselined CPU/memory/disk/network in Task Manager, isolated resource-heavy processes and startup programs, ruled out disk I/O via Resource Monitor, and reclaimed space with Disk Cleanup.
+**Skills:** Task Manager, Resource Monitor, Disk Cleanup, performance triage, systematic troubleshooting
+➡️ [View case study](Labs/windows-slow-performance-lab/README.md)
+
+### 🛑 BSOD Troubleshooting Lab
+Traced a Blue Screen of Death crash to its root cause using Event Viewer log filtering (BugCheck/Kernel-Power sources) and Reliability Monitor's stability history.
+**Skills:** Event Viewer, Reliability Monitor, root-cause analysis, Windows diagnostics
+➡️ [View case study](Labs/windows-bsod-troubleshooting-lab/README.md)
+
 ### 🔐 Active Directory Basics Lab
 Hands-on AD administration, user lifecycle management, GPO configuration, and domain authentication analysis.
 **Skills:** ADUC, PowerShell, GPOs, IAM fundamentals
@@ -31,6 +41,7 @@ Zero Trust IAM solution in Microsoft Entra ID for a fintech environment. Reduced
 A full security enhancement proposal featuring identity governance improvements, IoT security controls, incident response planning, and a phased implementation roadmap.
 **Skills:** security architecture analysis, identity governance, threat modeling, policy development, compliance alignment, roadmap design
 ➡️ [View case study](Labs/security-proposal-lab/README.md)
+
 
 
 
