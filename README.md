@@ -12,57 +12,27 @@ I'm targeting roles in **Cybersecurity Analysis, Identity & Access Management, a
 
 ## 📂 Featured Projects
 
-### 🎣 Phish-Guard Security Awareness Platform (Capstone — Project Manager)
-Leading a cross-functional Agile team building a phishing simulation and user education platform. Managing sprint delivery in Jira, coordinating development of secure authentication, audit logging, and user management functionality, and running recurring client stakeholder meetings.
-
-**Skills:** Agile delivery, Jira, stakeholder management, risk tracking, secure authentication, cross-functional coordination
-
----
-
 ### 🔐 Active Directory Basics Lab
-Hands-on AD administration, user lifecycle management, GPO configuration, and domain authentication analysis in a simulated Windows domain.
-
-**Skills:** ADUC, PowerShell, GPOs, Kerberos vs. NTLM, identity lifecycle management
-
-➡️ [View Lab](https://github.com/kaysherman/kaysherman/blob/main/Labs/Active%20Directory%20Lab.docx)
-
----
+Hands-on AD administration, user lifecycle management, GPO configuration, and domain authentication analysis.
+**Skills:** ADUC, PowerShell, GPOs, IAM fundamentals
+➡️ [View case study](Labs/active-directory-lab/README.md)
 
 ### 🛡️ Firewall & Vulnerability Assessment Lab
-Analyzed firewall rules, performed Nessus/OpenVAS scans, identified insecure services within a DMZ, and developed hardening and remediation recommendations.
+Analyzed firewall rules, performed Nessus/OpenVAS scans, identified insecure services, and developed a penetration testing plan.
+**Skills:** Nessus, OpenVAS, Nmap, firewall analysis, tunneling detection
+➡️ [View case study](Labs/firewall-vulnerability-lab/README.md)
 
-**Skills:** Nessus, OpenVAS, Nmap, Kali Linux, firewall analysis, tunneling detection, IDS/IPS recommendations
+### 🔎 Security IAM Modernization Lab
+Zero Trust IAM solution in Microsoft Entra ID for a fintech environment. Reduced excessive privileges using RBAC, enforced MFA and blocked legacy authentication with Conditional Access, and centralized identity governance across enterprise applications.
+**Skills:** Microsoft Entra ID, Conditional Access, MFA enforcement, RBAC, identity lifecycle governance, Zero Trust IAM design
+➡️ [View case study](Labs/iam-modernization-lab/README.md)
 
-➡️ [View Lab](https://github.com/kaysherman/kaysherman/blob/main/Labs/Firewall%20%26%20Vulnerability%20Assessment%20Lab.docx)
+### 🌐 Future-Proofing SecureTech: Security Proposal Lab
+A full security enhancement proposal featuring identity governance improvements, IoT security controls, incident response planning, and a phased implementation roadmap.
+**Skills:** security architecture analysis, identity governance, threat modeling, policy development, compliance alignment, roadmap design
+➡️ [View case study](Labs/security-proposal-lab/README.md)
 
----
 
-### 🌐 Future-Proofing SecureTech: Security Proposal
-A full security enhancement proposal aligned to NIST SP 800-30, featuring identity governance improvements, IoT security controls, incident response planning, and a phased implementation roadmap.
-
-**Skills:** Risk assessment (NIST SP 800-30), identity governance, threat modeling, incident response planning, policy development, compliance alignment
-
-➡️ [View Proposal](https://github.com/kaysherman/kaysherman/blob/main/Labs/SecureTech%20Security%20Proposal%20Lab.pptx)
-
----
-
-### 🔎 SecurePay IAM Modernization
-Designed a Zero Trust IAM solution in Microsoft Entra ID for a fintech environment — reduced excessive privileges using RBAC, enforced MFA, blocked legacy authentication with Conditional Access, and centralized identity governance across enterprise applications.
-
-**Skills:** Microsoft Entra ID, Conditional Access, MFA enforcement, RBAC, identity lifecycle governance, Zero Trust IAM design, SSO integration
-
-➡️ [View Project](https://github.com/kaysherman/kaysherman/blob/main/Labs/SecurePay%20IAM%20Modernization%20Lab.pptx)
-
-## 🛠️ Skills & Tools
-
-**Identity & Access Management**
-Microsoft Entra ID · Active Directory · Conditional Access · MFA · RBAC · Identity Governance & Lifecycle Management
-
-**Cybersecurity & Network Security**
-Nessus · OpenVAS · Nmap · Kali Linux · Firewall Rule Auditing · Vulnerability Scanning & Reporting · Security Hardening & Remediation · NIST SP 800-30 Risk Assessment
-
-**Project & Operational Delivery**
-Jira · Agile Delivery · Stakeholder Management · ServiceNow · PowerShell · Data Analysis & Reporting · Process Improvement & Documentation
 
 ## 📘 Certifications
 
