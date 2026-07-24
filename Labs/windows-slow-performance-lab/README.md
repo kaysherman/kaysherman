@@ -45,7 +45,7 @@ Right-clicked the problematic process group and ended the task where safe to do 
 
 **4. Check disk activity.** Opened Resource Monitor's Disk tab to check for processes generating high read/write activity and confirm disk I/O wasn't the bottleneck.
 
-<img width="975" height="878" alt="image" src="https://github.com/user-attachments/assets/f566233e-3dac-4baa-935a-cee29c19e1b4" />
+<img width="975" height="760" alt="image" src="https://github.com/user-attachments/assets/2e3ac610-a19b-41aa-9425-149c5cff568a" />
 
 
 **5. Reclaim disk space.** Ran Disk Cleanup on the C: drive and selected reclaimable file categories (temporary internet files, downloaded program files) to free up space.
