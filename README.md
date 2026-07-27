@@ -12,6 +12,11 @@ I'm targeting roles in **Cybersecurity Analysis, Identity & Access Management, a
 
 ## 📂 Featured Projects
 
+### 🎫 ServiceNow Ticketing Lab
+Worked four of the top service desk ticket types end-to-end in ServiceNow: password reset, software installation request, Outlook/email troubleshooting, and a VPN issue escalated to Network Operations. Shows real triage judgment (Impact/Urgency/Priority) and knowing when to escalate vs. resolve.
+**Skills:** ServiceNow Incident Management, ticket triage, root-cause troubleshooting, escalation judgment, service desk documentation
+➡️ [View case study](Labs/servicenow-ticketing-lab/README.md)
+
 ### 🖥️ Windows Performance Troubleshooting Lab
 Diagnosed a slow Windows 11 endpoint end-to-end: baselined CPU/memory/disk/network in Task Manager, isolated resource-heavy processes and startup programs, ruled out disk I/O via Resource Monitor, and reclaimed space with Disk Cleanup.
 **Skills:** Task Manager, Resource Monitor, Disk Cleanup, performance triage, systematic troubleshooting
@@ -41,6 +46,7 @@ Zero Trust IAM solution in Microsoft Entra ID for a fintech environment. Reduced
 A full security enhancement proposal featuring identity governance improvements, IoT security controls, incident response planning, and a phased implementation roadmap.
 **Skills:** security architecture analysis, identity governance, threat modeling, policy development, compliance alignment, roadmap design
 ➡️ [View case study](Labs/security-proposal-lab/README.md)
+
 
 
 
