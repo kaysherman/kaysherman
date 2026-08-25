@@ -65,6 +65,6 @@ A full security enhancement proposal featuring identity governance improvements,
 
 ## 📫 Connect With Me
 
-LinkedIn: [linkedin.com/in/cyberkay](https://www.linkedin.com/in/cyberkay)
+LinkedIn: [linkedin.com/in/kamirasherman](https://www.linkedin.com/in/kamirasherman)
 
 
